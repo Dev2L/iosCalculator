@@ -1,6 +1,6 @@
-# Lennart Lewis - lhl@njit.edu
-___
+# Lennart Lewis - lhl7@njit.edu
+
 ## iosCalculator
-Calculator that executes basic mathematical functions (i.e addition, division, multiplication &amp; subtraction).
+Calculator with a user interface that executes basic mathematical functions (i.e addition, division, multiplication &amp; subtraction).
 ___
 ![Screenshot](./calculator/CalculatorScreenshot.jpeg)
